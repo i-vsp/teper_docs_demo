@@ -1,0 +1,61 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/* Personalización respetando los temas */
+[data-theme='light'] .customButton {
+  --ifm-button-background-color: #00b894;     /* verde azulado */
+  --ifm-button-border-color: #00b894;
+  --ifm-button-color: rgb(240, 240, 240);
+  --ifm-button-hover-background-color: #019875;
+  --ifm-button-hover-border-color: #019875;
+}
+
+
+[data-theme='dark'] .customButton {
+  --ifm-button-background-color: #014739;     /* verde azulado */
+  --ifm-button-border-color: #014739;
+  --ifm-button-color: rgb(240, 240, 240);
+  --ifm-button-hover-background-color: #019875;
+  --ifm-button-hover-border-color: #019875;
+}
+
+
+.fullScreenHero {
+  background-image: url('/img/tacoshd.jpg'); /* Asegúrate de colocar la imagen en static/img */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.centerContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
