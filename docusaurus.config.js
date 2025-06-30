@@ -28,7 +28,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'i-vsp', // Usually your GitHub org/user name.
-  projectName: 'teper_docs_demo.github.io', // Usually your repo name.
+  projectName: 'teper_docs_demo', // Usually your repo name.
   trailingSlash: true,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
