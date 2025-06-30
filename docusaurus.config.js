@@ -51,7 +51,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/i-vsp/teper_dt_docs_demo/tree/main/docs',
+            'https://github.com/i-vsp/teper_dt_docs_demo/tree/main',
         },
       }),
     ],
