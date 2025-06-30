@@ -1,0 +1,63 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/teper_docs_demo/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/teper_docs_demo/docs",
+          "mainDocId": "Hello",
+          "docs": [
+            {
+              "id": "examen",
+              "path": "/teper_docs_demo/docs/examen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Hello",
+              "path": "/teper_docs_demo/docs/Hello",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pero_que_es_esto/tambien-tenemos-juegos",
+              "path": "/teper_docs_demo/docs/pero_que_es_esto/tambien-tenemos-juegos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ya_conoces_los_tacos/origen-tacos",
+              "path": "/teper_docs_demo/docs/ya_conoces_los_tacos/origen-tacos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ya_conoces_los_tacos/tipos-tacos",
+              "path": "/teper_docs_demo/docs/ya_conoces_los_tacos/tipos-tacos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/ya-conoces-los-tacos",
+              "path": "/teper_docs_demo/docs/category/ya-conoces-los-tacos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/pero-que-tenemos-aqui",
+              "path": "/teper_docs_demo/docs/category/pero-que-tenemos-aqui",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/teper_docs_demo/docs/Hello",
+                "label": "Hola cara de bola!"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

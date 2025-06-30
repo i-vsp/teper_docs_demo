@@ -1,0 +1,319 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "237": [
+      237
+    ],
+    "650": [
+      61,
+      250,
+      401,
+      650
+    ],
+    "17896441": [
+      250,
+      650,
+      401
+    ],
+    "23319016": [
+      84
+    ],
+    "main": [
+      250,
+      354,
+      792
+    ],
+    "runtime~main": [
+      250,
+      792,
+      354
+    ],
+    "14eb3368": [
+      250,
+      969
+    ],
+    "1be75220": [
+      897
+    ],
+    "1f391b9e": [
+      250,
+      650,
+      61
+    ],
+    "393be207": [
+      134
+    ],
+    "3d0b1df8": [
+      85
+    ],
+    "40970c06": [
+      194
+    ],
+    "4c231b4a": [
+      869
+    ],
+    "59f5d37a": [
+      673
+    ],
+    "5e95c892": [
+      647
+    ],
+    "70252d75": [
+      591
+    ],
+    "a7456010": [
+      235
+    ],
+    "a7bd4aaa": [
+      98
+    ],
+    "a94703ab": [
+      250,
+      48
+    ],
+    "aba21aa0": [
+      742
+    ],
+    "af933fe5": [
+      851
+    ],
+    "c4f5d8e4": [
+      250,
+      634
+    ],
+    "f4b14343": [
+      150
+    ],
+    "styles": [
+      48,
+      61,
+      354,
+      401,
+      634,
+      650,
+      792,
+      969,
+      250
+    ]
+  },
+  "assets": {
+    "48": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.05c3d261.js",
+          "hash": "583247728097bfbb",
+          "publicPath": "/teper_docs_demo/assets/js/a94703ab.05c3d261.js"
+        }
+      ]
+    },
+    "61": {
+      "js": [
+        {
+          "file": "assets/js/1f391b9e.593961af.js",
+          "hash": "5a19e69ad86a0cd4",
+          "publicPath": "/teper_docs_demo/assets/js/1f391b9e.593961af.js"
+        }
+      ]
+    },
+    "84": {
+      "js": [
+        {
+          "file": "assets/js/23319016.ca78072b.js",
+          "hash": "944cd730bc52e83f",
+          "publicPath": "/teper_docs_demo/assets/js/23319016.ca78072b.js"
+        }
+      ]
+    },
+    "85": {
+      "js": [
+        {
+          "file": "assets/js/3d0b1df8.ff8b07ef.js",
+          "hash": "88c91a6049bef67d",
+          "publicPath": "/teper_docs_demo/assets/js/3d0b1df8.ff8b07ef.js"
+        }
+      ]
+    },
+    "98": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.557e451d.js",
+          "hash": "f280a109ada62f04",
+          "publicPath": "/teper_docs_demo/assets/js/a7bd4aaa.557e451d.js"
+        }
+      ]
+    },
+    "134": {
+      "js": [
+        {
+          "file": "assets/js/393be207.fdca0c97.js",
+          "hash": "1c099b04efa7c20f",
+          "publicPath": "/teper_docs_demo/assets/js/393be207.fdca0c97.js"
+        }
+      ]
+    },
+    "150": {
+      "js": [
+        {
+          "file": "assets/js/f4b14343.bd126a75.js",
+          "hash": "ebebdf38996acba0",
+          "publicPath": "/teper_docs_demo/assets/js/f4b14343.bd126a75.js"
+        }
+      ]
+    },
+    "194": {
+      "js": [
+        {
+          "file": "assets/js/40970c06.fc673603.js",
+          "hash": "716b0e2663b49d9c",
+          "publicPath": "/teper_docs_demo/assets/js/40970c06.fc673603.js"
+        }
+      ]
+    },
+    "235": {
+      "js": [
+        {
+          "file": "assets/js/a7456010.d27e4924.js",
+          "hash": "006c3407a4bf355e",
+          "publicPath": "/teper_docs_demo/assets/js/a7456010.d27e4924.js"
+        }
+      ]
+    },
+    "237": {
+      "js": [
+        {
+          "file": "assets/js/237.5bae8511.js",
+          "hash": "2f933a67d609159b",
+          "publicPath": "/teper_docs_demo/assets/js/237.5bae8511.js"
+        }
+      ]
+    },
+    "250": {
+      "css": [
+        {
+          "file": "assets/css/styles.eb3f9bfa.css",
+          "hash": "3ef119ed268b5bbb",
+          "publicPath": "/teper_docs_demo/assets/css/styles.eb3f9bfa.css"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.2863cbe8.js",
+          "hash": "9a8492ab153eb6db",
+          "publicPath": "/teper_docs_demo/assets/js/runtime~main.2863cbe8.js"
+        }
+      ]
+    },
+    "401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.660a5f4c.js",
+          "hash": "d41e110eae6945fb",
+          "publicPath": "/teper_docs_demo/assets/js/17896441.660a5f4c.js"
+        }
+      ]
+    },
+    "591": {
+      "js": [
+        {
+          "file": "assets/js/70252d75.7d2f0d1a.js",
+          "hash": "53b6ee636ce95bd7",
+          "publicPath": "/teper_docs_demo/assets/js/70252d75.7d2f0d1a.js"
+        }
+      ]
+    },
+    "634": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.9eddbe63.js",
+          "hash": "48275a64694c83bb",
+          "publicPath": "/teper_docs_demo/assets/js/c4f5d8e4.9eddbe63.js"
+        }
+      ]
+    },
+    "647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.3c3307a4.js",
+          "hash": "7ad6addba402274c",
+          "publicPath": "/teper_docs_demo/assets/js/5e95c892.3c3307a4.js"
+        }
+      ]
+    },
+    "650": {
+      "js": [
+        {
+          "file": "assets/js/650.a6a5ea26.js",
+          "hash": "b68a79fb95ec4e05",
+          "publicPath": "/teper_docs_demo/assets/js/650.a6a5ea26.js"
+        }
+      ]
+    },
+    "673": {
+      "js": [
+        {
+          "file": "assets/js/59f5d37a.1781ad5b.js",
+          "hash": "3ff6fbcf7c7003ad",
+          "publicPath": "/teper_docs_demo/assets/js/59f5d37a.1781ad5b.js"
+        }
+      ]
+    },
+    "742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.bddde0da.js",
+          "hash": "5cb29dbfd84bc595",
+          "publicPath": "/teper_docs_demo/assets/js/aba21aa0.bddde0da.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.087cefdc.js",
+          "hash": "17ade369d1266125",
+          "publicPath": "/teper_docs_demo/assets/js/main.087cefdc.js"
+        }
+      ]
+    },
+    "851": {
+      "js": [
+        {
+          "file": "assets/js/af933fe5.c8cd2df0.js",
+          "hash": "699ec68889571212",
+          "publicPath": "/teper_docs_demo/assets/js/af933fe5.c8cd2df0.js"
+        }
+      ]
+    },
+    "869": {
+      "js": [
+        {
+          "file": "assets/js/4c231b4a.78455b30.js",
+          "hash": "d8e474a8994983ba",
+          "publicPath": "/teper_docs_demo/assets/js/4c231b4a.78455b30.js"
+        }
+      ]
+    },
+    "897": {
+      "js": [
+        {
+          "file": "assets/js/1be75220.59d8a5cb.js",
+          "hash": "f12b27417acaff6b",
+          "publicPath": "/teper_docs_demo/assets/js/1be75220.59d8a5cb.js"
+        }
+      ]
+    },
+    "969": {
+      "js": [
+        {
+          "file": "assets/js/14eb3368.f9ca28b2.js",
+          "hash": "cbadd3fe4aeed743",
+          "publicPath": "/teper_docs_demo/assets/js/14eb3368.f9ca28b2.js"
+        }
+      ]
+    }
+  }
+}

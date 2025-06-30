@@ -1,0 +1,27 @@
+{
+  "id": "ya_conoces_los_tacos/tipos-tacos",
+  "title": "🌟 Tipos de Tacos",
+  "description": "\"Dime qué taco comes, y te diré quién eres.\" — Proverbio taquero",
+  "source": "@site/docs/ya_conoces_los_tacos/tipos-tacos.md",
+  "sourceDirName": "ya_conoces_los_tacos",
+  "slug": "/ya_conoces_los_tacos/tipos-tacos",
+  "permalink": "/teper_docs_demo/docs/ya_conoces_los_tacos/tipos-tacos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/i-vsp/teper_docs_demo/tree/main/docs/docs/ya_conoces_los_tacos/tipos-tacos.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌮 Origen de los Tacos",
+    "permalink": "/teper_docs_demo/docs/ya_conoces_los_tacos/origen-tacos"
+  },
+  "next": {
+    "title": "¿Pero que tenemos aqui?",
+    "permalink": "/teper_docs_demo/docs/category/pero-que-tenemos-aqui"
+  }
+}

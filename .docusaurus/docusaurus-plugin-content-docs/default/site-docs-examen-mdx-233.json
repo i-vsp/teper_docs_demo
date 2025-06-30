@@ -1,0 +1,24 @@
+{
+  "id": "examen",
+  "title": "¿Cuánto sabes  ahora de de tacos? 🌮",
+  "description": "<Quiz",
+  "source": "@site/docs/examen.mdx",
+  "sourceDirName": ".",
+  "slug": "/examen",
+  "permalink": "/teper_docs_demo/docs/examen",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/i-vsp/teper_docs_demo/tree/main/docs/docs/examen.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Veamos que tanto aprendiste",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pong",
+    "permalink": "/teper_docs_demo/docs/pero_que_es_esto/tambien-tenemos-juegos"
+  }
+}
